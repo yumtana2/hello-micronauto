@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: aaa
+---
+testFramework: kotlintest
+sourceLanguage: kotlin
